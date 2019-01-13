@@ -3,3 +3,5 @@ title: Stream Deck Plugins
 description: A repository for featuring the best plugins for the Elgato StreamDeck
 google_analytics: UA-132332802-1
 show_downloads: false
+plugins:
+  - jemoji

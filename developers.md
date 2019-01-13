@@ -14,4 +14,4 @@ Follow the steps below to get your plugin featured.
 
 Any issues or questions please [open an issue on GitHub](https://github.com/madmatt/streamdeck-plugins/issues/new).
 
-**Note:** Only plugins that have a release file (e.g. a release on GitHu with a `.streamDeckPlugin` file) will be approved.
+**Note:** Only plugins that have a release file (e.g. a release on GitHub with a `.streamDeckPlugin` file) will be approved.

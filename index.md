@@ -19,4 +19,4 @@ Stopwatch | A simple stopwatch with two different styles | [BarRaider](https://g
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | [Fred Emmott](https://github.com/fredemmott) | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 
 ### Developers: Add your plugin to this list
-See [How to add your plugin](developers.md).
+See [How to add your plugin](developers).

@@ -5,7 +5,7 @@ Below is a curated list of plugins for the Elgato Stream Deck. Check them out. U
 ### Plugin List
 
 Plugin Name | Description | Windows | Mac | Author | Download link
------------ | ----------- | ------- | --- | ------ | -------------
+----------- | ----------- | :-----: | :-: | ------ | -------------
 Audio Output Switcher | Change the default Windows audio output device | ✔️ | ✖️ | [Fred Emmott](https://github.com/fredemmott) | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider](https://github.com/BarRaider) | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori](https://github.com/tobimori) | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)

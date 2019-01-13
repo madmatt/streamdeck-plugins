@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Stream Deck Plugins
 
-You can use the [editor on GitHub](https://github.com/madmatt/streamdeck-plugins/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Below is a curated list of plugins for the Elgato Stream Deck. Check them out. Until the Stream Deck plugin store is live, this website serves as a quick list of useful plugins. Once the plugin store is live within the Stream Deck app, this website will just redirect to the Elgato website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Installing plugins
 
-### Markdown
+1. Make sure you're on the latest version of the Stream Deck software by checking for updates in the app.
+2. Browse the list below. When you find a plugin you like, hit the 'Download' link to be taken to the list of releases. Pick the most recent version (generally the best option), which will download a '.streamDeckPlugin' file to your computer.
+3. Open the new file by double-clicking on it, or launching from your browser. The Stream Deck app will open, and the new plugin will have loaded one or more actions under the 'Custom Actions' header at the bottom-right. Drag the new action onto your Stream Deck and get streaming!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madmatt/streamdeck-plugins/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Plugin List

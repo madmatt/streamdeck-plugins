@@ -20,7 +20,7 @@ Streaming Remote | Start and stop OBS or XSplit running on another computer ([mo
 Zapier | Integrate Stream Deck with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 
 ### Developers: Add your plugin to this list
-See [How to add your plugin](developers).
+See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).
 
 [Fred Emmott]: https://github.com/fredemmott/
 [tobimori]: https://github.com/tobimori

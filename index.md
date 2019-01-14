@@ -1,4 +1,4 @@
-Below is a curated list of plugins for the Elgato Stream Deck. Check them out. Until the Stream Deck plugin store is live, this website serves as a quick list of useful plugins. Once the plugin store is live within the Stream Deck app, this website will just redirect to the Elgato website.
+Below is a curated list of plugins for the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck). Check them out. Until the Stream Deck plugin store is live, this website serves as a quick list of useful plugins. Once the plugin store is live within the Stream Deck app, this website will just redirect to the Elgato website.
 
 **For how to install plugins, see [How to install Stream Deck plugins](how-to-install).** The install and use of plugins listed below is done at your own risk.
 

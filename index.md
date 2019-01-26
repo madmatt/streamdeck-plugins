@@ -12,6 +12,7 @@ Audio Output Switcher | Change the default or communication Windows audio input 
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
+HWiNFO64 Integration | Display hardware sensor readings from HWiNFO64 | ✔️ | ✖️ | [exension] | [Download](https://github.com/exension/hwinfo-streamdeck/releases)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-MicMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
@@ -26,3 +27,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Fred Emmott]: https://github.com/fredemmott/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://github.com/BarRaider
+[exension]: https://github.com/exension

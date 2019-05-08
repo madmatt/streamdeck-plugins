@@ -9,6 +9,7 @@ Plugin Name | Description | Windows | Mac | Author | Link
 Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-analogclock/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
@@ -16,6 +17,7 @@ HWiNFO64 Integration | Display hardware sensor readings from HWiNFO64 | ✔️ |
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-MicMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
+ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Aidan Wardman](https://github.com/aidanwardman) | [Download](https://github.com/aidanwardman/ServiceNow-Stream-Deck-Plugin/releases)
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-stopwatch/releases/)
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-voicemeeter/releases)
@@ -26,5 +28,5 @@ See [How to add your plugin](developers). You can find out how to build your own
 
 [Fred Emmott]: https://github.com/fredemmott/
 [tobimori]: https://github.com/tobimori
-[BarRaider]: https://github.com/BarRaider
+[BarRaider]: https://barraider.github.io/
 [exension]: https://github.com/exension

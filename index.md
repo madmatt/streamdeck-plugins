@@ -9,6 +9,7 @@ Plugin Name | Description | Windows | Mac | Author | Link
 Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-analogclock/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
@@ -26,3 +27,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Fred Emmott]: https://github.com/fredemmott/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://barraider.github.io/
+[Zakk]: https://github.com/zakk4223

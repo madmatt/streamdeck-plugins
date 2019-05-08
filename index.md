@@ -29,4 +29,5 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Fred Emmott]: https://github.com/fredemmott/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://barraider.github.io/
+[Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension

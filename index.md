@@ -13,6 +13,7 @@ CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | 
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
+Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
 Home Assistant | Control [Home Assistant](https://hass.io/) items | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-homeassistant/releases)
 HWiNFO64 Integration | Display hardware sensor readings from HWiNFO64 | ✔️ | ✖️ | [exension] | [Download](https://github.com/exension/hwinfo-streamdeck/releases)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
@@ -30,6 +31,7 @@ Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobim
 See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).
 
 [Fred Emmott]: https://github.com/fredemmott/
+[LogicallySound]: https://github.com/logicallysound/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://barraider.github.io/
 [Zakk]: https://github.com/zakk4223

@@ -6,6 +6,7 @@ Below is a curated list of plugins for the [Elgato Stream Deck](https://www.elga
 
 Plugin Name | Description | Windows | Mac | Author | Link
 ----------- | ----------- | :-----: | :-: | ------ | ----
+Airplane mode | Enable airplane mode on macOS | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-airplanemode/releases)
 Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-analogclock/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)

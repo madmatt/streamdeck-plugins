@@ -8,6 +8,7 @@ Plugin Name | Description | Windows | Mac | Author | Link
 ----------- | ----------- | :-----: | :-: | ------ | ----
 Airplane mode | Enable airplane mode on macOS | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-airplanemode/releases)
 Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-analogclock/releases)
+App Switcher | This Stream Deck plugin let you switch between opened apps quickly | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-appswitcher/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)
 Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)

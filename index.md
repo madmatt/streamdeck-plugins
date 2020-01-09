@@ -60,4 +60,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [BarRaider]: https://barraider.com/
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
-[ZerGo0 ]: https://github.com/ZerGo0
+[ZerGo0]: https://github.com/ZerGo0

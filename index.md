@@ -43,6 +43,7 @@ Stream Deck Games | Suite of games for your Stream Deck. Includes: Minesweeper, 
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 Super Macro | Keyboard and Mouse simulator that supports creating advanced keystroke macros. Support actions like Ctrl-Alt-F1 or even Shift-Home+Control-C (Select text and copy to clipboard)  | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
+Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Windows Mover & Resizer | Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -59,3 +60,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [BarRaider]: https://barraider.com/
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
+[ZerGo0 ]: https://github.com/ZerGo0

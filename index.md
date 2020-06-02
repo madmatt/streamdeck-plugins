@@ -35,6 +35,7 @@ ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Ai
 ShadowPlay Integration | Control NVIDIA ShadowPlay from your Stream Deck | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Soundpad Integration | Play sounds directly from Soundpad, without needing to configure hotkeys | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Spotify Integration | Spotify integration and live feedback. A Spotify Premium account is required. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Star Citizen Server Status | View in Realtime the Server Status for Star Citizen | ✔️ | ✔️ | [f00d4tehg0dz](https://github.com/f00d4tehg0dz) | [Download](https://github.com/f00d4tehg0dz/starcitizen-server-status-plugin-for-elgato-streamdeck/blob/master/Release/com.f00d4tehg0dz.starcitizen.streamDeckPlugin)  |
 Steam Launcher | Launch Steam Games from Stream Deck | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.steam.launch/blob/master/sch.umann.it.steam.launch.streamDeckPlugin)  |
 Stock & Currency Ticker | View live quotes of your favorite Stocks, Currencies and CryptoCurrencies | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)

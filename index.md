@@ -51,6 +51,7 @@ Windows Mover & Resizer | Allows you to control the position and size of applica
 World Time | Displays the local time in cities around the world | ✔️ | ✔️ | [BarRaider] | [Download](https://barraider.com/)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
+Zoom | Control your Zoom meetings | ✖️ | ✔️ | [Martijn Smit](https://twitter.com/smitmartijn) | [Download](https://github.com/smitmartijn/streamdeck-zoom-plugin/releases)
 
 ### Developers: Add your plugin to this list
 See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).

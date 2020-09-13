@@ -46,6 +46,7 @@ Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️
 Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Warframe Cycle Tracker | Track day/night cycles in Warframe | ✔️ | ✔️ | [Sauravisus] | [Download](https://github.com/sauravisus/Warframe-Cycle-Tracker-for-Stream-Deck/releases/latest)
 Windows Mover & Resizer | Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 World Time | Displays the local time in cities around the world | ✔️ | ✔️ | [BarRaider] | [Download](https://barraider.com/)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
@@ -61,3 +62,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
 [ZerGo0]: https://github.com/ZerGo0
+[Sauravisus]: https://github.com/sauravisus

@@ -21,6 +21,7 @@ Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
 Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
+Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
 GPMDP Integration | Google Play Music Desktop Player integration and live feedback. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Home Assistant | Control [Home Assistant](https://hass.io/) items | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-homeassistant/releases)
 Home Assistant Webhooks | Call [Home Assistant](https://www.home-assistant.io) webhooks ([install instructions](https://github.com/hendricksond/streamdeck-homeassistant-webhook/blob/master/README.md)) | ✔️ | ✔️ | [hendricksond](https://github.com/hendricksond) | [Download](https://github.com/hendricksond/streamdeck-homeassistant-webhook/releases/latest)
@@ -61,3 +62,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
 [ZerGo0]: https://github.com/ZerGo0
+[David Borzek]: https://github.com/davidborzek/

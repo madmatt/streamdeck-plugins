@@ -1,8 +1,9 @@
 Below is a curated list of plugins for the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck).
 
-**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).** The install and use of plugins listed below is done at your own risk.
+**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).**   
+The install and use of plugins listed below is done at your own risk.
 
-### Plugin List
+### Plugins List
 
 Plugin Name | Description | Windows | Mac | Author | Link
 ----------- | ----------- | :-----: | :-: | ------ | ----
@@ -37,7 +38,7 @@ Soundpad Integration | Play sounds directly from Soundpad, without needing to co
 Spotify Integration | Spotify integration and live feedback. A Spotify Premium account is required. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Star Citizen Server Status | View in Realtime the Server Status for Star Citizen | ✔️ | ✔️ | [f00d4tehg0dz](https://github.com/f00d4tehg0dz) | [Download](https://github.com/f00d4tehg0dz/starcitizen-server-status-plugin-for-elgato-streamdeck/blob/master/Release/com.f00d4tehg0dz.starcitizen.streamDeckPlugin)  |
 Stock & Currency Ticker | View live quotes of your favorite Stocks, Currencies and CryptoCurrencies | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
-Steamstat.us Steam Server Status | View in Realtime the Server Status for Steam Users Online, Steam Active Users, Steam Store, Steam Community and more!  | ✔️ | ✔️ | [f00d4tehg0dz](https://github.com/f00d4tehg0dz) | [Download](https://github.com/f00d4tehg0dz/Steam-Status-Plugin-for-Eglato-Streamdeck/blob/main/Release/com.f00d4tehg0dz.steamstat.streamDeckPlugin)  |
+Steamstat.us Steam Server Status | View in Realtime the Server Status for Steam Users Online, Steam Active Users, Steam Store, Steam Community and more!  | ✔️ | ✔️ | [f00d4tehg0dz](https://github.com/f00d4tehg0dz) | [Download](https://github.com/f00d4tehg0dz/Steam-Status-Plugin-for-Eglato-Streamdeck/blob/main/Release/com.f00d4tehg0dz.steamstat.streamDeckPlugin)
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Counter | A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Deck Games | Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says, Breakout, Dice Roller, and an 8-Ball you can display on stream. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -54,7 +55,8 @@ Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [ta
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 
 ### Developers: Add your plugin to this list
-See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).
+See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).  
+**New:** C# developers can use [Stream-Deck Tools] to easily create a plugin.
 
 [Fred Emmott]: https://github.com/fredemmott/
 [LogicallySound]: https://github.com/logicallysound/
@@ -64,3 +66,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [exension]: https://github.com/exension
 [ZerGo0]: https://github.com/ZerGo0
 [David Borzek]: https://github.com/davidborzek/
+[Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/

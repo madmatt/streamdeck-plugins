@@ -42,6 +42,7 @@ Steamstat.us Steam Server Status | View in Realtime the Server Status for Steam 
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Counter | A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Deck Games | Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says, Breakout, Dice Roller, and an 8-Ball you can display on stream. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+StreamDeckWS | A WebServices proxy to connect an Elgato Stream Deck to a Node-RED server | ✔️ | ✔️ | [ybizeul] | [Download](https://github.com/ybizeul/StreamDeckWS/releases)
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 Super Macro | Keyboard and Mouse simulator that supports creating advanced keystroke macros. Support actions like Ctrl-Alt-F1 or even Shift-Home+Control-C (Select text and copy to clipboard)  | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
@@ -69,3 +70,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Sauravisus]: https://github.com/sauravisus
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
+[ybizeul]: https://github.com/ybizeul/StreamDeckWS

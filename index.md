@@ -32,6 +32,7 @@ Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmot
 Minecraft | Get stats of your favorite Minecraft server live on the Stream Deck. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 OBS Replay | Start/Stop the OBS replay function | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay/blob/master/sch.umann.it.obs.replay.streamDeckPlugin)  |
 OBS Tools | Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+OctoDeck | This plugin shows your 3D-Printer completion state in percent on your StreamDeck (OctoPrint required). | ✔️ | ✖️ | [Christian Peuschel] | [Download](https://github.com/cpeuschel/streamdeck-octodeck/releases)
 ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Aidan Wardman](https://github.com/aidanwardman) | [Download](https://github.com/aidanwardman/ServiceNow-Stream-Deck-Plugin/releases)
 ShadowPlay Integration | Control NVIDIA ShadowPlay from your Stream Deck | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Soundpad Integration | Play sounds directly from Soundpad, without needing to configure hotkeys | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -69,3 +70,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Sauravisus]: https://github.com/sauravisus
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
+[Christian Peuschel]: https://github.com/cpeuschel

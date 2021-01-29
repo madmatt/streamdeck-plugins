@@ -24,6 +24,7 @@ Discord Message | Send a message to a Discord text channel using a configured we
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
 Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
 GPMDP Integration | Google Play Music Desktop Player integration and live feedback. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Hubitat Integration | Use Stream Deck to control your [Hubitat]() devices | ✔️ | ✔️ | [ripnet] | [Download](https://github.com/ripnet/streamdeck-hubitat)
 Home Assistant | Control [Home Assistant](https://hass.io/) items | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-homeassistant/releases)
 Home Assistant Webhooks | Call [Home Assistant](https://www.home-assistant.io) webhooks ([install instructions](https://github.com/hendricksond/streamdeck-homeassistant-webhook/blob/master/README.md)) | ✔️ | ✔️ | [hendricksond](https://github.com/hendricksond) | [Download](https://github.com/hendricksond/streamdeck-homeassistant-webhook/releases/latest)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
@@ -71,3 +72,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
 [Christian Peuschel]: https://github.com/cpeuschel
+[ripnet]: https://github.com/ripnet

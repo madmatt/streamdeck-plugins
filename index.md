@@ -1,6 +1,6 @@
 Below is a curated list of plugins for the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck).
 
-**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).**   
+**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).**
 The install and use of plugins listed below is done at your own risk.
 
 ### Plugins List
@@ -15,6 +15,7 @@ AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ 
 Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
+Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mike Powell](https://github.com/mikepowell) | [Download](https://github.com/mikepowell/streamdeck-commandline/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | ✔️ | [Vincent Courcelle](https://github.com/tubededentifrice) | [Download](https://github.com/tubededentifrice/streamdeck-crypto/tree/master/Release), [Screenshots](https://github.com/tubededentifrice/streamdeck-crypto)
@@ -58,7 +59,7 @@ Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [ta
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 
 ### Developers: Add your plugin to this list
-See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).  
+See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).
 **New:** C# developers can use [Stream-Deck Tools] to easily create a plugin.
 
 [Fred Emmott]: https://github.com/fredemmott/

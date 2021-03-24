@@ -13,6 +13,7 @@ App Switcher | This Stream Deck plugin let you switch between opened apps quickl
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)
 Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+Barco Event Master | Integrate with [Barco E2](https://www.barco.com/en/product/e2-gen-2-bto) | ✔️ | ✖️ | [robbie78669](https://github.com/robbie78669/streamdeck-eventmaster) | [Download](https://github.com/robbie78669/streamdeck-eventmaster/tree/master/Release)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -54,7 +55,7 @@ Windows Mover & Resizer | Allows you to control the position and size of applica
 World Time | Displays the local time in cities around the world | ✔️ | ✔️ | [BarRaider] | [Download](https://barraider.com/)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
-Event Master | Integrate with [Barco E2](https://www.barco.com/en/product/e2-gen-2-bto) | ✔️ | ✖️ | [robbie78669] | (https://github.com/robbie78669/streamdeck-eventmaster) | [Download](https://github.com/robbie78669/streamdeck-eventmaster/tree/master/Release)
+
 ### Developers: Add your plugin to this list
 See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).  
 **New:** C# developers can use [Stream-Deck Tools] to easily create a plugin.

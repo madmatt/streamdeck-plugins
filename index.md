@@ -1,6 +1,6 @@
 Below is a curated list of plugins for the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck).
 
-**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).**   
+**For how to install plugins, see [How to install Stream Deck plugins](how-to-install).**
 The install and use of plugins listed below is done at your own risk.
 
 ### Plugins List
@@ -16,11 +16,12 @@ Audio Mute | Quickly mute your audio devices with one button | ✔️ | ✔️ |
 Audio Switcher | Change the default or communication audio input or output device | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
+Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mike Powell](https://github.com/mikepowell) | [Download](https://github.com/mikepowell/streamdeck-commandline/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | ✔️ | [Vincent Courcelle](https://github.com/tubededentifrice) | [Download](https://github.com/tubededentifrice/streamdeck-crypto/tree/master/Release), [Screenshots](https://github.com/tubededentifrice/streamdeck-crypto)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
-Discord | Control your local Discord application ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
+Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
 Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
 Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
@@ -44,11 +45,13 @@ Steamstat.us Steam Server Status | View in Realtime the Server Status for Steam 
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Counter | A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Deck Games | Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says, Breakout, Dice Roller, and an 8-Ball you can display on stream. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+StreamDeckWS | A WebServices proxy to connect an Elgato Stream Deck to a Node-RED server | ✔️ | ✔️ | [ybizeul] | [Download](https://github.com/ybizeul/StreamDeckWS/releases)
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 Super Macro | Keyboard and Mouse simulator that supports creating advanced keystroke macros. Support actions like Ctrl-Alt-F1 or even Shift-Home+Control-C (Select text and copy to clipboard)  | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
 Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Universal Devices | Control your Universal Devices ISY Nodes and Programs. Allows controlling Nodes, Programs, and some Debugging tools used to help find IDs for configuring the Nodes & Programs. | ✔️ | ✖️ | [Greg Peatfield] | [Download](https://github.com/Mazecreator/udcontrol-streamdeck)
 VLC Remote | Controls the VLC media player (play, pause, next, ...) | ✔️ | ✔️ | [RGPaul](https://github.com/rgpaul) | [Download](https://github.com/RGPaul/streamdeck-vlc/releases)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Warframe Cycle Tracker | Track day/night cycles in Warframe | ✔️ | ✔️ | [Sauravisus] | [Download](https://github.com/sauravisus/Warframe-Cycle-Tracker-for-Stream-Deck/releases/latest)
@@ -58,18 +61,20 @@ Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [ta
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 
 ### Developers: Add your plugin to this list
-See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).  
+See [How to add your plugin](developers). You can find out how to build your own plugin on the [Elgato Stream Deck SDK site](https://developer.elgato.com/documentation/stream-deck/).
 **New:** C# developers can use [Stream-Deck Tools] to easily create a plugin.
 
 [Fred Emmott]: https://github.com/fredemmott/
 [LogicallySound]: https://github.com/logicallysound/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://barraider.com/
+[Greg Peatfield]: https://github.com/Mazecreator/
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
 [ZerGo0]: https://github.com/ZerGo0
 [Sauravisus]: https://github.com/sauravisus
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
+[ybizeul]: https://github.com/ybizeul/StreamDeckWS
 [Christian Peuschel]: https://github.com/cpeuschel
 [ripnet]: https://github.com/ripnet

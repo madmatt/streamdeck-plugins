@@ -12,7 +12,8 @@ Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github
 App Switcher | This Stream Deck plugin let you switch between opened apps quickly | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-appswitcher/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)
-Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [F
+Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
 Barco Event Master | Integrate with [Barco E2](https://www.barco.com/en/product/e2-gen-2-bto) | ✔️ | ✖️ | [robbie78669](https://github.com/robbie78669/streamdeck-eventmaster) | [Download](https://github.com/robbie78669/streamdeck-eventmaster/tree/master/Release)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
@@ -45,6 +46,7 @@ Steamstat.us Steam Server Status | View in Realtime the Server Status for Steam 
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Counter | A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Stream Deck Games | Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says, Breakout, Dice Roller, and an 8-Ball you can display on stream. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+StreamDeckWS | A WebServices proxy to connect an Elgato Stream Deck to a Node-RED server | ✔️ | ✔️ | [ybizeul] | [Download](https://github.com/ybizeul/StreamDeckWS/releases)
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 Super Macro | Keyboard and Mouse simulator that supports creating advanced keystroke macros. Support actions like Ctrl-Alt-F1 or even Shift-Home+Control-C (Select text and copy to clipboard)  | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
@@ -74,5 +76,6 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Sauravisus]: https://github.com/sauravisus
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
+[ybizeul]: https://github.com/ybizeul/StreamDeckWS
 [Christian Peuschel]: https://github.com/cpeuschel
 [ripnet]: https://github.com/ripnet

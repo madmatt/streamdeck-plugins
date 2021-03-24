@@ -12,7 +12,9 @@ Analog clock | Shows an analog clock | ✔️ | ✔️ | [Elgato](https://github
 App Switcher | This Stream Deck plugin let you switch between opened apps quickly | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-appswitcher/releases)
 Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-applemail/releases)
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)
-Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+Audio Output Switcher | Change the default or communication Windows audio input or output device | ✔️ | ✖️ | [F
+Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioOutputSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
+Barco Event Master | Integrate with [Barco E2](https://www.barco.com/en/product/e2-gen-2-bto) | ✔️ | ✖️ | [robbie78669](https://github.com/robbie78669/streamdeck-eventmaster) | [Download](https://github.com/robbie78669/streamdeck-eventmaster/tree/master/Release)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -24,6 +26,7 @@ Discord Message | Send a message to a Discord text channel using a configured we
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
 Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
 GPMDP Integration | Google Play Music Desktop Player integration and live feedback. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Hubitat Integration | Use Stream Deck to control your [Hubitat]() devices | ✔️ | ✔️ | [ripnet] | [Download](https://github.com/ripnet/streamdeck-hubitat/releases/)
 Home Assistant | Control [Home Assistant](https://hass.io/) items | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-homeassistant/releases)
 Home Assistant Webhooks | Call [Home Assistant](https://www.home-assistant.io) webhooks ([install instructions](https://github.com/hendricksond/streamdeck-homeassistant-webhook/blob/master/README.md)) | ✔️ | ✔️ | [hendricksond](https://github.com/hendricksond) | [Download](https://github.com/hendricksond/streamdeck-homeassistant-webhook/releases/latest)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
@@ -32,6 +35,7 @@ Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmot
 Minecraft | Get stats of your favorite Minecraft server live on the Stream Deck. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 OBS Replay | Start/Stop the OBS replay function | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay/blob/master/sch.umann.it.obs.replay.streamDeckPlugin)  |
 OBS Tools | Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+OctoDeck | This plugin shows your 3D-Printer completion state in percent on your StreamDeck (OctoPrint required). | ✔️ | ✖️ | [Christian Peuschel] | [Download](https://github.com/cpeuschel/streamdeck-octodeck/releases)
 ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Aidan Wardman](https://github.com/aidanwardman) | [Download](https://github.com/aidanwardman/ServiceNow-Stream-Deck-Plugin/releases)
 ShadowPlay Integration | Control NVIDIA ShadowPlay from your Stream Deck | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Soundpad Integration | Play sounds directly from Soundpad, without needing to configure hotkeys | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -48,6 +52,7 @@ Super Macro | Keyboard and Mouse simulator that supports creating advanced keyst
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
 Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Universal Devices | Control your Universal Devices ISY Nodes and Programs. Allows controlling Nodes, Programs, and some Debugging tools used to help find IDs for configuring the Nodes & Programs. | ✔️ | ✖️ | [Greg Peatfield] | [Download](https://github.com/Mazecreator/udcontrol-streamdeck)
 VLC Remote | Controls the VLC media player (play, pause, next, ...) | ✔️ | ✔️ | [RGPaul](https://github.com/rgpaul) | [Download](https://github.com/RGPaul/streamdeck-vlc/releases)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Warframe Cycle Tracker | Track day/night cycles in Warframe | ✔️ | ✔️ | [Sauravisus] | [Download](https://github.com/sauravisus/Warframe-Cycle-Tracker-for-Stream-Deck/releases/latest)
@@ -64,6 +69,7 @@ See [How to add your plugin](developers). You can find out how to build your own
 [LogicallySound]: https://github.com/logicallysound/
 [tobimori]: https://github.com/tobimori
 [BarRaider]: https://barraider.com/
+[Greg Peatfield]: https://github.com/Mazecreator/
 [Zakk]: https://github.com/zakk4223
 [exension]: https://github.com/exension
 [ZerGo0]: https://github.com/ZerGo0
@@ -71,3 +77,5 @@ See [How to add your plugin](developers). You can find out how to build your own
 [David Borzek]: https://github.com/davidborzek/
 [Stream-Deck Tools]: https://github.com/BarRaider/streamdeck-tools/
 [ybizeul]: https://github.com/ybizeul/StreamDeckWS
+[Christian Peuschel]: https://github.com/cpeuschel
+[ripnet]: https://github.com/ripnet

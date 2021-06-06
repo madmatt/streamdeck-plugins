@@ -14,7 +14,7 @@ Apple Mail | Displays unread emails in Apple Mail | ✖️ | ✔️ | [Elgato](h
 AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ | [Mike Schapiro](https://github.com/mushoo) | [Download](https://github.com/mushoo/streamdeck-applescript/releases)
 Audio Mute | Quickly mute your audio devices with one button | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
 Audio Switcher | Change the default or communication audio input or output device | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
-Busylight | Control your [kuando Busylight](https://busylight.com/) presence indicator | ✖️ | ✔️ | [Pedro Pombeiro](https://gitlab.com/pedropombeiro) | [Download](https://gitlab.com/pedropombeiro/streamdeck-busylight/-/releases)
+Busylight | Control your [kuando Busylight](https://busylight.com/) presence indicator | ✖️ | ✔️ | [Pedro Pombeiro](https://gitlab.com/pedropombeiro) | [Download](https://gitlab.com/pedropombeiro/streamdeck-busylight/-/releases), [Demo](https://youtu.be/fgxbG2PBowo)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mike Powell](https://github.com/mikepowell) | [Download](https://github.com/mikepowell/streamdeck-commandline/releases)

@@ -15,6 +15,7 @@ AppleScript | Run arbitrary AppleScript code, or a .scpt file | ✖️ | ✔️ 
 Audio Mute | Quickly mute your audio devices with one button | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
 Audio Switcher | Change the default or communication audio input or output device | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-AudioSwitcher/releases), [Demo](https://youtu.be/Y5avo5WrwwM)
 Chat Pager | Listens to your twitch chat and gives you a visual alert if someone uses the !page command | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/), [Demo](https://streamable.com/1wxjh)
+Clockify | Start, track and stop [Clockify](https://clockify.me/) timers from your Stream Deck | ✔️ | X | [Lukas Dürrenberger](https://github.com/eXpl0it3r) | [Download](https://github.com/eXpl0it3r/streamdeck-clockify/releases/latest)
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mike Powell](https://github.com/mikepowell) | [Download](https://github.com/mikepowell/streamdeck-commandline/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)

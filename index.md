@@ -64,6 +64,7 @@ Windows Mover & Resizer | Allows you to control the position and size of applica
 World Time | Displays the local time in cities around the world | ✔️ | ✔️ | [BarRaider] | [Download](https://barraider.com/)
 Weather | A plugin that displays the weather condition and temperature for a specific city | ✔️ | ✔️ | [JaouherK](https://github.com/JaouherK) | [Download](https://github.com/JaouherK/streamDeck-weatherPlugin/releases)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
+YTMD Connector | With this plugin you can control the YouTube Music Desktop App [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | ✔️ | ✔️ | [XeroxDev](https://github.com/XeroxDev) | [Download](https://github.com/XeroxDev/YTMD-StreamDeck/releases)
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 Zoom | Control your Zoom meetings | ✖️ | ✔️ | [Martijn Smit](https://twitter.com/smitmartijn) | [Download](https://github.com/smitmartijn/streamdeck-zoom-plugin/releases)
 

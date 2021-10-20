@@ -62,6 +62,7 @@ VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [
 Warframe Cycle Tracker | Track day/night cycles in Warframe | ✔️ | ✔️ | [Sauravisus] | [Download](https://github.com/sauravisus/Warframe-Cycle-Tracker-for-Stream-Deck/releases/latest)
 Windows Mover & Resizer | Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 World Time | Displays the local time in cities around the world | ✔️ | ✔️ | [BarRaider] | [Download](https://barraider.com/)
+Weather | A plugin that displays the weather condition and temperature for a specific city | ✔️ | ✔️ | [JaouherK](https://github.com/JaouherK) | [Download](https://github.com/JaouherK/streamDeck-weatherPlugin/releases)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 Zoom | Control your Zoom meetings | ✖️ | ✔️ | [Martijn Smit](https://twitter.com/smitmartijn) | [Download](https://github.com/smitmartijn/streamdeck-zoom-plugin/releases)

@@ -26,7 +26,7 @@ Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | 
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
 Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
-DND Toggler | DND Toggler lets you control macOS DND (Do not disturb) mode from your Stream Deck | ✖️ | ✔️ | [magobaol](https://github.com/magobaol) | [Download](https://github.com/magobaol/streamdeck-dnd/releases/)
+DND Toggler | DND Toggler lets you control macOS DND (Do not disturb) mode from your Stream Deck | ✖️ | ✔️ | [magobaol] | [Download](https://github.com/magobaol/streamdeck-dnd/releases/)
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
 Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
 GPMDP Integration | Google Play Music Desktop Player integration and live feedback. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -36,6 +36,7 @@ Home Assistant Webhooks | Call [Home Assistant](https://www.home-assistant.io) w
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Minecraft | Get stats of your favorite Minecraft server live on the Stream Deck. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Moom profile activator | This Stream Deck plugin will let you activate a [Moom](https://manytricks.com/moom/) profile of your choice | ✖️ | ✔️ | [magobaol] | [Download](https://github.com/magobaol/streamdeck-moom/releases/)
 OBS Replay | Start/Stop the OBS replay function | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay/blob/master/sch.umann.it.obs.replay.streamDeckPlugin)  |
 OBS Tools | Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 OctoDeck | This plugin shows your 3D-Printer completion state in percent on your StreamDeck (OctoPrint required). | ✔️ | ✖️ | [Christian Peuschel] | [Download](https://github.com/cpeuschel/streamdeck-octodeck/releases)
@@ -83,3 +84,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [ybizeul]: https://github.com/ybizeul/StreamDeckWS
 [Christian Peuschel]: https://github.com/cpeuschel
 [ripnet]: https://github.com/ripnet
+[magobaol]: https://github.com/magobaol

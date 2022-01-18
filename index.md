@@ -24,6 +24,7 @@ Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mi
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | ✔️ | [Vincent Courcelle](https://github.com/tubededentifrice) | [Download](https://github.com/tubededentifrice/streamdeck-crypto/tree/master/Release), [Screenshots](https://github.com/tubededentifrice/streamdeck-crypto)
+Crypto Watcher | Display value & 24 change of your favorite crypto ([more info](https://github.com/GurYN/StreamDeckPlugins)) | ✔️ | ✔️ | [GurYN] | [Download](https://github.com/GurYN/StreamDeckPlugins/releases)
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
 Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
@@ -57,6 +58,7 @@ Super Macro | Keyboard and Mouse simulator that supports creating advanced keyst
 Tasker | Integrate with [Tasker](https://tasker.joaoapps.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-tasker/releases)
 Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+Time Management | Stopwatch & Timer available in your Stream Deck ([more info](https://github.com/GurYN/StreamDeckPlugins)) | ✔️ | ✔️ | [GurYN] | [Download](https://github.com/GurYN/StreamDeckPlugins/releases)
 Universal Devices | Control your Universal Devices ISY Nodes and Programs. Allows controlling Nodes, Programs, and some Debugging tools used to help find IDs for configuring the Nodes & Programs. | ✔️ | ✖️ | [Greg Peatfield] | [Download](https://github.com/Mazecreator/udcontrol-streamdeck)
 VLC Remote | Controls the VLC media player (play, pause, next, ...) | ✔️ | ✔️ | [RGPaul](https://github.com/rgpaul) | [Download](https://github.com/RGPaul/streamdeck-vlc/releases)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
@@ -88,3 +90,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Christian Peuschel]: https://github.com/cpeuschel
 [ripnet]: https://github.com/ripnet
 [magobaol]: https://github.com/magobaol
+[GurYN]: https://github.com/GurYN

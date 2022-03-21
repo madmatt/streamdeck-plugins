@@ -27,7 +27,7 @@ Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | 
 Delayed Text Input | Simulates a keyboard with configurable keypress delay | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-delayedtext/releases)
 Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](https://github.com/fredemmott/StreamDeck-Discord/blob/master/README.md)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-Discord/releases/latest), [Installation/Demo](https://youtu.be/MSMbRtj2fFA)
 Discord Message | Send a message to a Discord text channel using a configured webhook | ✔️ | ✔️ | [LogicallySound] | [Download](https://github.com/logicallysound/streamdeck-discord-message/releases/latest), [GitHub](https://github.com/logicallysound/streamdeck-discord-message/)
-Discord Volume Mixer | Control individual user volumes in Discord voice chat | ✔️ | ✖️ | [CZDanol] | [Download](https://github.com/CZDanol/streamdeck-discordmixer/releases/latest), [GitHub](https://github.com/CZDanol/streamdeck-discordmixer)
+Discord Volume Mixer | Control individual user volumes in Discord voice chat | ✔️ | ✖️ | [Danol] | [Download](https://github.com/CZDanol/streamdeck-discordmixer/releases/latest), [GitHub](https://github.com/CZDanol/streamdeck-discordmixer)
 DND Toggler | DND Toggler lets you control macOS DND (Do not disturb) mode from your Stream Deck | ✖️ | ✔️ | [magobaol] | [Download](https://github.com/magobaol/streamdeck-dnd/releases/)
 Finder Tags | Add color labels to files and folders in the Finder | ✖️ | ✔️ | [Jarno Le Conté](https://github.com/JarnoLeConte) | [Download](https://github.com/JarnoLeConte/streamdeck-findertags/releases)
 Foobar2000 Integration | Control Foobar2000 with real-time feedback. | ✔️ | ✔️ | [David Borzek] | [Download](https://github.com/davidborzek/streamdeck-foobar2000/releases/latest)
@@ -89,3 +89,4 @@ See [How to add your plugin](developers). You can find out how to build your own
 [Christian Peuschel]: https://github.com/cpeuschel
 [ripnet]: https://github.com/ripnet
 [magobaol]: https://github.com/magobaol
+[Danol]: https://github.com/CZDanol

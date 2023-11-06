@@ -22,6 +22,7 @@ Clockify | Start, track and stop [Clockify](https://clockify.me/) timers from yo
 CocoaSplit | Control CocoaSplit with a Stream Deck | ✖️ | ✔️ | [Zakk] | [Download](https://github.com/zakk4223/CocoaSplitESD/releases)
 Command Line | Execute an arbitrary Windows command line | ✔️ | ✖️ | [Mike Powell](https://github.com/mikepowell) | [Download](https://github.com/mikepowell/streamdeck-commandline/releases)
 Countdown Timer | Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
+CoinMarketCap Ticker | Your favourite crypto currency price at your finger tips. | ✔️ | ✔️ | [Florian Zevedei](https://twitter.com/florian_zevedei) | [Download](https://apps.elgato.com/plugins/com.dahnandpartners.cmcticker)
 CPU | Displays current CPU usage | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-cpu/releases)
 Crypto ticker PRO | Better crypto ticker with tons of customizations | ✔️ | ✔️ | [Vincent Courcelle](https://github.com/tubededentifrice) | [Download](https://github.com/tubededentifrice/streamdeck-crypto/tree/master/Release), [Screenshots](https://github.com/tubededentifrice/streamdeck-crypto)
 Crypto Watcher | Display value & 24 change of your favorite crypto ([more info](https://github.com/GurYN/StreamDeckPlugins)) | ✔️ | ✔️ | [GurYN] | [Download](https://github.com/GurYN/StreamDeckPlugins/releases)
@@ -73,6 +74,7 @@ World Time | Displays the local time in cities around the world | ✔️ | ✔�
 Weather | A plugin that displays the weather condition and temperature for a specific city | ✔️ | ✔️ | [JaouherK](https://github.com/JaouherK) | [Download](https://github.com/JaouherK/streamDeck-weatherPlugin/releases)
 Weather | Hourly weather status right on your StreamDeck | ✔️ | ✔️ | [tarikguney](https://www.github.com/tarikguney) | [Download](https://github.com/tarikguney/weather-plugin-for-elgato-streamdeck/releases)
 YTMD Connector | With this plugin you can control the YouTube Music Desktop App [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) | ✔️ | ✔️ | [XeroxDev](https://github.com/XeroxDev) | [Download](https://github.com/XeroxDev/YTMD-StreamDeck/releases)
+Youtube Ticker | Direct link to favourite youtube channel with counter for new videos. | ✔️ | ✔️ | [Florian Zevedei](https://twitter.com/florian_zevedei) | [Download](https://apps.elgato.com/plugins/com.dahnandpartners.ytticker)
 Zapier | Integrate with [Zapier](https://zapier.com/) | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-zapier/releases)
 Zoom | Control your Zoom meetings | ✖️ | ✔️ | [Martijn Smit](https://twitter.com/smitmartijn) | [Download](https://github.com/smitmartijn/streamdeck-zoom-plugin/releases)
 

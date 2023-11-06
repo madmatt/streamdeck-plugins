@@ -44,6 +44,7 @@ Moom profile activator | This Stream Deck plugin will let you activate a [Moom](
 OBS Replay | Start/Stop the OBS replay function | ✔️ | ✔️ | [cuddlycheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay/blob/master/sch.umann.it.obs.replay.streamDeckPlugin)  |
 OBS Tools | Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 OctoDeck | This plugin shows your 3D-Printer completion state in percent on your StreamDeck (OctoPrint required). | ✔️ | ✖️ | [Christian Peuschel] | [Download](https://github.com/cpeuschel/streamdeck-octodeck/releases)
+OpenHardwareMonitor | Simple display of data from OpenHardwareMonitor | ✔️ | ✖️ | [atcurtis](https://github.com/atcurtis) | [Download](https://github.com/atcurtis/streamdeck-ohs/releases)
 ServiceNow | Track tickets from your ServiceNow Instance | ✔️ | ✔️ | [Aidan Wardman](https://github.com/aidanwardman) | [Download](https://github.com/aidanwardman/ServiceNow-Stream-Deck-Plugin/releases)
 ShadowPlay Integration | Control NVIDIA ShadowPlay from your Stream Deck | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Soundpad Integration | Play sounds directly from Soundpad, without needing to configure hotkeys | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)

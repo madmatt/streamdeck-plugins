@@ -65,6 +65,7 @@ TeamSpeak 5 | A Stream Deck Plugin to interact with the TeamSpeak 5 Client troug
 Team Speak | Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) via your Stream Deck. | ✔️ | ✖️ | [ZerGo0] | [Download](https://github.com/ZerGo0/streamdeck-teamspeak3integration/releases)
 Text File Tools | A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
 Time Management | Stopwatch & Timer available in your Stream Deck ([more info](https://github.com/GurYN/StreamDeckPlugins)) | ✔️ | ✔️ | [GurYN] | [Download](https://github.com/GurYN/StreamDeckPlugins/releases)
+Time Tracker | Track time with [Kimai](https://www.kimai.org/) | ✔️ | ✔️ | [Bastian Bräu](https://github.com/b263/) | [Download](https://github.com/b263/stream-deck-time-tracker/releases/latest/download/dev.b263.time-tracker.streamDeckPlugin)
 Universal Devices | Control your Universal Devices ISY Nodes and Programs. Allows controlling Nodes, Programs, and some Debugging tools used to help find IDs for configuring the Nodes & Programs. | ✔️ | ✖️ | [Greg Peatfield] | [Download](https://github.com/Mazecreator/udcontrol-streamdeck)
 VLC Remote | Controls the VLC media player (play, pause, next, ...) | ✔️ | ✔️ | [RGPaul](https://github.com/rgpaul) | [Download](https://github.com/RGPaul/streamdeck-vlc/releases)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)

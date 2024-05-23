@@ -38,6 +38,7 @@ Hubitat Integration | Use Stream Deck to control your [Hubitat](https://hubitat.
 Home Assistant | Control [Home Assistant](https://hass.io/) items | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-homeassistant/releases)
 Home Assistant Webhooks | Call [Home Assistant](https://www.home-assistant.io) webhooks ([install instructions](https://github.com/hendricksond/streamdeck-homeassistant-webhook/blob/master/README.md)) | ✔️ | ✔️ | [hendricksond](https://github.com/hendricksond) | [Download](https://github.com/hendricksond/streamdeck-homeassistant-webhook/releases/latest)
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
+Last.fm | Integrates Last.fm with quick access to your now playing, scrobbles, profile, reports, and more. | ✔️ | ✔️ | [Chris Verringer](https://verringer.com) | [Download](https://verringer.github.io/streamdeck-lastfm/)
 Mattermost | Control Mattermost on the Stream Deck | ✔️ | ✖️ | [Mongeon](https://github.com/mongeon/MattermostAPI) | [Download](https://github.com/mongeon/MattermostAPI/releases/latest)
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Minecraft | Get stats of your favorite Minecraft server live on the Stream Deck. | ✔️ | ✖️ | [BarRaider] | [Download](https://barraider.com/)
